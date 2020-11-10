@@ -1,0 +1,36 @@
+$primary-color: #3D606B;
+$btn-color: #F195B2;
+$text-color: #D1CDCD;
+$item-shadow-color: #F195B233;
+$cart-shadow-color: #F195B24D;
+$line-color: #F6F5F5;
+$cart-name-color: #494949;
+
+$primary-font: Times New Roman;
+$description-font: Arial;
+$number-font: Helvetica Neue;
+
+h1 {
+  font-size: 23px;
+  color: white;
+  font-family: $primary-font;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 18px;
+  color: $primary-color;
+  font-family: $primary-font;
+}
+
+h3 {
+  font-size: 12px;
+  color: $text-color;
+  font-family: $description-font;
+}
+
+h4 {
+  font-size: 16px;
+  color: $text-color;
+  font-family: $primary-font;
+}
